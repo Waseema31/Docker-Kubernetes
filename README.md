@@ -7,3 +7,7 @@ This is the foundational project on Docker and the basics of interacting with co
 2. Get an **interactive shell** running inside of the conatiner.
 3. install the text editor **vim**.
 4. Modify the index.html from the NGINX server to deliver custom content.
+
+                        OR
+
+**we can use dockerfile to automate this process of installing and changing the custom page of the index.html**
